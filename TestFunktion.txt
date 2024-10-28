@@ -1,0 +1,2 @@
+Dies hier ist ein Test der Funktion.
+Dies ist der zweite Test mit der vorhandenen Datei.
